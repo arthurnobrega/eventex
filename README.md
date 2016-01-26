@@ -2,6 +2,9 @@
 
 Sistema de Eventos desenvolvido como parte do curso Welcome to the Django (WTTD), ministrado por Henrique Bastos.
 
+[![Build Status](https://travis-ci.org/arthurnobrega/eventex.svg?branch=master)](https://travis-ci.org/arthurnobrega/eventex)
+
+
 ## Como desenvolver?
 
 1. Clone o repositório
