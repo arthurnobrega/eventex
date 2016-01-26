@@ -1,7 +1,7 @@
 .DS_Store
 .env
 .idea
-.wttd
+.eventex
 *.sqlite3
 *pyc
 __pycache__
